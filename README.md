@@ -6,6 +6,10 @@ CREATE YOUR OWN SLIDER
 ## IN HHTML
 You can use class name that whatever you want.Do not use my reserved class names (reserved class names at the end)
 
+
+
+{::nomarkdown}
+
 <div class="slider">
   <div class="content">
     <div class="slider1">Your Content</div>
@@ -15,28 +19,43 @@ You can use class name that whatever you want.Do not use my reserved class names
   </div>
 </div>
 
+{:/}
+
 You have to link my css and js
+
+{::nomarkdown}
 
 <link rel="stylesheet"  src="alzheimer_slider.css">
 <script src="js/alzheimer_slider.js"></script>
 
+{:/}
+
+
+
 AND LAST CALL FUNCTION
 
+
+
+{::nomarkdown}
 <script>
   Slider(".slider");
  </script>
+
+{:/}
+
  
  
  
  ### You can make Loop,you can change next and prev icon,you can create circles,you can give loop speed
- 
+
+{::nomarkdown}
  Slider(".slider",{
  next:"fas fa-chevron-right",
  prev:"fas fa-chevron-left",
  loop:true,
  speed:2000
  })
- 
+{:/}
  
  
  MY RESERVED CLASS NAMES
