@@ -6,10 +6,7 @@
 ## IN HTML
 You can use class name that whatever you want.Do not use my reserved class names (reserved class names at the end)
 
-
-
-<!--
-
+```html
 <div class="slider">
   <div class="content">
     <div class="slider1">Your Content</div>
@@ -18,8 +15,8 @@ You can use class name that whatever you want.Do not use my reserved class names
     <div class="slider4">Your Content</div>    
   </div>
 </div>
+```
 
--->
 
 You have to link my css and js
 
