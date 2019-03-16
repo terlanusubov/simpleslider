@@ -1,14 +1,14 @@
 # AlzheimerSlider
-CREATE YOUR OWN SLIDER 
+## CREATE YOUR OWN SLIDER 
 
 ### Probably,you fad up to use owl carousel every time that you dont need.You need very simple slider.You need something easy.So this plugin is absolutely for you
 
-## IN HHTML
+## IN HTML
 You can use class name that whatever you want.Do not use my reserved class names (reserved class names at the end)
 
 
 
-{::nomarkdown}
+<!--
 
 <div class="slider">
   <div class="content">
@@ -19,7 +19,7 @@ You can use class name that whatever you want.Do not use my reserved class names
   </div>
 </div>
 
-{:/}
+-->
 
 You have to link my css and js
 
