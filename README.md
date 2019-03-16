@@ -58,15 +58,18 @@ AND LAST CALL FUNCTION
 ```
  
  
- MY RESERVED CLASS NAMES
- slider-main-wrapper
- slide-item
- slider-buttons
- slider-button-wrapper
- right-icon
- left-icon
- content
+### MY RESERVED CLASS NAMES
+ 
+ <ul>
+  <li>slider-main-wrapper</li>
+  <li>slide-item</li>
+  <li>slider-buttons</li>
+  <li>slider-button-wrapper</li>
+  <li>right-icon</li>
+  <li>left-icon</li>
+  <li>content</li>
+</ul>
  
  
  
- THANKS FOR READING AT LEAST :)
+ ## THANKS FOR READING AT LEAST :)
