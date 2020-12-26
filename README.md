@@ -1,9 +1,7 @@
-# AlzheimerSlider
-## CREATE YOUR OWN SLIDER 
+# Simple slider by alzaymr.dev
+ Probably,you fad up to use owl carousel every time that you dont need.You need very simple slider.You need something easy.So this plugin is absolutely for you
 
-### Probably,you fad up to use owl carousel every time that you dont need.You need very simple slider.You need something easy.So this plugin is absolutely for you
-
-## USING
+## Usage
 You can use class name that whatever you want.Do not use my reserved class names (reserved class names at the end)
 
 ```html
@@ -29,7 +27,7 @@ You have to link my css and js
 
 
 
-AND LAST CALL FUNCTION
+and last call my function
 
 
 
@@ -70,6 +68,3 @@ AND LAST CALL FUNCTION
   <li>content</li>
 </ul>
  
- 
- 
- ## THANKS FOR READING AT LEAST :)
