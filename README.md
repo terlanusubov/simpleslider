@@ -1,5 +1,4 @@
-# Simple slider by alzaymr.dev
- Probably,you fad up to use owl carousel every time that you dont need.You need very simple slider.You need something easy.So this plugin is absolutely for you
+# Simple slider
 
 ## Usage
 You can use class name that whatever you want.Do not use my reserved class names (reserved class names at the end)
